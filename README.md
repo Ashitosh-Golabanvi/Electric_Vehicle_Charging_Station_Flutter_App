@@ -6,3 +6,4 @@
 
 **Required Packages:**
 * Google Map.
+* Rozar Pay.
